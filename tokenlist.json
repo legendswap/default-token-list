@@ -1,321 +1,321 @@
 {
-    "name": "BEP20 Token List",
-    "timestamp": "2020-10-24T02:02:36.699Z",
-    "version": {
-        "major": 1,
-        "minor": 5,
-        "patch": 3
+  "name": "BEP20 Token List",
+  "timestamp": "2020-10-13T03:47:30.054Z",
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 3
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+  "keywords": [
+    "LegendSwap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Cardano Token",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "symbol": "ADA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
     },
-    "tags": {},
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
-    "keywords": [
-        "narwhalswap",
-        "default"
-    ],
-    "tokens": [
-        {
-            "name": "Cardano Token",
-            "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
-            "symbol": "ADA",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
-        },
-        {
-            "name": "Anyswap-BEP20",
-            "address": "0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
-            "symbol": "ANY",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa.png"
-        },
-        {
-            "name": "Cosmos Token",
-            "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
-            "symbol": "ATOM",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png"
-        },
-        {
-            "name": "BakeryToken",
-            "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
-            "symbol": "BAKE",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
-        },
-        {
-            "name": "Band Protocol Token",
-            "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
-            "symbol": "BAND",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18.png"
-        },
-        {
-            "name": "Bitcoin Cash Token",
-            "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
-            "symbol": "BCH",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
-        },
-        {
-            "name": "BTCB Token",
-            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-            "symbol": "BTCB",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
-        },
-        {
-            "name": "Burger Swap",
-            "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
-            "symbol": "BURGER",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
-        },
-        {
-            "name": "BUSD Token",
-            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-            "symbol": "BUSD",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
-        },
-        {
-            "name": "Pancake",
-            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "symbol": "CAKE",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
-        },
-        {
-            "name": "CanYaCoin",
-            "address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
-            "symbol": "CAN",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56.png"
-        },
-        {
-            "name": "Cream",
-            "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
-            "symbol": "CREAM",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888.png"
-        },
-        {
-            "name": "Dai Token",
-            "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-            "symbol": "DAI",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
-        },
-        {
-            "name": "Polkadot Token",
-            "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
-            "symbol": "DOT",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
-        },
-        {
-            "name": "DragonX Token",
-            "address": "0xdf954f06814c048365b5b4248eebe072706b9e31",
-            "symbol": "DRX",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xdf954f06814c048365b5b4248eebe072706b9e31.png"
-        },
-        {
-            "name": "EOS Token",
-            "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
-            "symbol": "EOS",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
-        },
-        {
-            "name": "Ethereum Token",
-            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-            "symbol": "ETH",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
-        },
-        {
-            "name": "The Force Token",
-            "address": "0x658A109C5900BC6d2357c87549B651670E5b0539",
-            "symbol": "FOR",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x658A109C5900BC6d2357c87549B651670E5b0539.png"
-        },
-        {
-            "name": "JustLiquidity",
-            "address": "0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D",
-            "symbol": "JULb",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D.png"
-        },
-        {
-            "name": "LegendX Token",
-            "address": "0x0d31a88a914518a489fb59cca05902234a230c66",
-            "symbol": "LGX",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x0d31a88a914518a489fb59cca05902234a230c66.png"
-        },
-        {
-            "name": "ChainLink Token",
-            "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
-            "symbol": "LINK",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
-        },
-        {
-            "name": "Litecoin Token",
-            "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
-            "symbol": "LTC",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
-        },
-        {
-            "name": "Ontology Token",
-            "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
-            "symbol": "ONT",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png"
-        },
-        {
-            "name": "Prometeus",
-            "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
-            "symbol": "PROM",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5.png"
-        },
-        {
-            "name": "SPARTAN PROTOCOL TOKEN",
-            "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
-            "symbol": "SPARTA",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C.png"
-        },
-        {
-            "name": "Tether USD",
-            "address": "0x55d398326f99059fF775485246999027B3197955",
-            "symbol": "USDT",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x55d398326f99059fF775485246999027B3197955.png"
-        },
-        {
-            "name": "Wrapped BNB",
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "symbol": "WBNB",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
-        },
-        {
-            "name": "XRP Token",
-            "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
-            "symbol": "XRP",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
-        },
-        {
-            "name": "Tezos Token",
-            "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
-            "symbol": "XTZ",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x16939ef78684453bfDFb47825F8a5F714f12623a.png"
-        },
-        {
-            "name": "YFII.finance Token",
-            "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
-            "symbol": "YFII",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
-        },
-        {
-            "name": "Zcash Token",
-            "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
-            "symbol": "ZEC",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/master/images/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb.png"
-        },
-        {
-            "name": "BTCB Token",
-            "address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
-            "symbol": "BTCB",
-            "decimals": 18,
-            "chainId": 97,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png"
-        },
-        {
-            "name": "BUSD Token",
-            "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
-            "symbol": "BUSD",
-            "decimals": 18,
-            "chainId": 97,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
-        },
-        {
-            "name": "Dai Token",
-            "address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
-            "symbol": "DAI",
-            "decimals": 18,
-            "chainId": 97,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/DAI-D75/logo.png"
-        },
-        {
-            "name": "EOS Token",
-            "address": "0x6B043332090a6BE81De1503949Cfc8bac2cA1c33",
-            "symbol": "EOS",
-            "decimals": 18,
-            "chainId": 97,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/eos/info/logo.png"
-        },
-        {
-            "name": "Ethereum Token",
-            "address": "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
-            "symbol": "ETH",
-            "decimals": 18,
-            "chainId": 97,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
-        },
-        {
-            "name": "Tether USD",
-            "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
-            "symbol": "USDT",
-            "decimals": 18,
-            "chainId": 97,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-        },
-        {
-            "name": "Wrapped BNB",
-            "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
-            "symbol": "WBNB",
-            "decimals": 18,
-            "chainId": 97,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
-        }
-    ]
+    {
+      "name": "Anyswap-BEP20",
+      "address": "0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
+      "symbol": "ANY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa.png"
+    },
+    {
+      "name": "Cosmos Token",
+      "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+      "symbol": "ATOM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png"
+    },
+    {
+      "name": "BakeryToken",
+      "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      "symbol": "BAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
+    },
+    {
+      "name": "Band Protocol Token",
+      "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
+      "symbol": "BAND",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18.png"
+    },
+    {
+      "name": "Bitcoin Cash Token",
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "symbol": "BCH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
+    },
+    {
+      "name": "BTCB Token",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    },
+    {
+      "name": "Burger Swap",
+      "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+      "symbol": "BURGER",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
+    },
+    {
+      "name": "BUSD Token",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "Pancake",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "CanYaCoin",
+      "address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
+      "symbol": "CAN",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56.png"
+    },
+    {
+      "name": "Cream",
+      "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
+      "symbol": "CREAM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888.png"
+    },
+    {
+      "name": "Dai Token",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+    {
+      "name": "Polkadot Token",
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+      "symbol": "DOT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
+    },
+    {
+      "name": "DragonX Token",
+      "address": "0xDF954F06814C048365B5B4248eEbE072706b9E31",
+      "symbol": "DRX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
+    },
+    {
+      "name": "EOS Token",
+      "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+      "symbol": "EOS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "The Force Token",
+      "address": "0x658A109C5900BC6d2357c87549B651670E5b0539",
+      "symbol": "FOR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x658A109C5900BC6d2357c87549B651670E5b0539.png"
+    },
+    {
+      "name": "JustLiquidity",
+      "address": "0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D",
+      "symbol": "JULb",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D.png"
+    },
+    {
+      "name": "ChainLink Token",
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
+    },
+    {
+      "name": "Litecoin Token",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+      "symbol": "LTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
+    },
+    {
+      "name": "LegendX Token",
+      "address": "0x0D31a88a914518a489FB59Cca05902234A230C66",
+      "symbol": "LGX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xA1303E6199b319a891b79685F0537D289af1FC83.png"
+    },
+    {
+      "name": "Ontology Token",
+      "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
+      "symbol": "ONT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png"
+    },
+    {
+      "name": "Prometeus",
+      "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
+      "symbol": "PROM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5.png"
+    },
+    {
+      "name": "SPARTAN PROTOCOL TOKEN",
+      "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
+      "symbol": "SPARTA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
+    {
+      "name": "XRP Token",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "symbol": "XRP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+    },
+    {
+      "name": "Tezos Token",
+      "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
+      "symbol": "XTZ",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x16939ef78684453bfDFb47825F8a5F714f12623a.png"
+    },
+    {
+      "name": "YFII.finance Token",
+      "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
+      "symbol": "YFII",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
+    },
+    {
+      "name": "Zcash Token",
+      "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+      "symbol": "ZEC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://github.com/legendswap/default-token-list/blob/main/images/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb.png"
+    },
+    {
+      "name": "BTCB Token",
+      "address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png"
+    },
+    {
+      "name": "BUSD Token",
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+    },
+    {
+      "name": "Dai Token",
+      "address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/DAI-D75/logo.png"
+    },
+    {
+      "name": "EOS Token",
+      "address": "0x6B043332090a6BE81De1503949Cfc8bac2cA1c33",
+      "symbol": "EOS",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/eos/info/logo.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "address": "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+    }
+  ]
 }
