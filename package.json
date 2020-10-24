@@ -1,0 +1,39 @@
+{
+  "name": "@legendswap/default-token-list",
+  "version": "1.5.3",
+  "description": "◦ The legendswap default token list",
+  "main": "build/tokens.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/tokens.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/tokens.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legendswap/default-token-list.git"
+  },
+  "keywords": [
+    "legendswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Moody Salem",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/legendswap/default-token-list/issues"
+  },
+  "homepage": "https://github.com/legendswap/default-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2",
+    "copyfiles": "^2.3.0"
+  }
+}
