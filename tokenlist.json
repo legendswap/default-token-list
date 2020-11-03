@@ -126,14 +126,6 @@
             "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/main/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
         },
         {
-            "name": "DragonX Token",
-            "address": "0xdf954f06814c048365b5b4248eebe072706b9e31",
-            "symbol": "DRX",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/main/images/0xdf954f06814c048365b5b4248eebe072706b9e31.png"
-        },
-        {
             "name": "EOS Token",
             "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
             "symbol": "EOS",
@@ -166,9 +158,9 @@
             "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/main/images/0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D.png"
         },
         {
-            "name": "LegendX Token",
-            "address": "0x0d31a88a914518a489fb59cca05902234a230c66",
-            "symbol": "LGX",
+            "name": "Legendary Token",
+            "address": "0x934c0c74af722eedccde2ba9bdfbef50f930b597",
+            "symbol": "LGDR",
             "decimals": 18,
             "chainId": 56,
             "logoURI": "https://raw.githubusercontent.com/legendswap/default-token-list/main/images/0x0d31a88a914518a489fb59cca05902234a230c66.png"
